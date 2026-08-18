@@ -1,5 +1,7 @@
 # DeepSeek V4 × J-Space 能力释放报告
 
+[**中文原文**](./README.md) | [English translation](./README.en.md)
+
 > **© 2026 Tiger3807861189.** This work is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/) (CC BY-ND 4.0). You may share and cite this report with attribution; you may **not** modify, adapt, or create derivative works of it for distribution.
 >
 > **© 2026 Tiger3807861189.** 本报告采用 [知识共享-署名-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nd/4.0/)（CC BY-ND 4.0）授权。可署名引用与转载；**禁止**修改、改编或基于本报告创作演绎作品后分发。
